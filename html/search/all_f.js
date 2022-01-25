@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['saturation_5fhigh_0',['saturation_high',['../classClosed__Loop_1_1ClosedLoop.html#a2b136d0c3fc082e1d6e68782690962d3',1,'Closed_Loop::ClosedLoop']]],
+  ['saturation_5flow_1',['saturation_low',['../classClosed__Loop_1_1ClosedLoop.html#aa8d7ed746298dd8b4cc6c92e60eaa1ff',1,'Closed_Loop::ClosedLoop']]],
+  ['saw_5fwave_2',['saw_wave',['../LED__with__comments_8py.html#adeba399fb3cbfbd8582ac7b21da50b73',1,'LED_with_comments']]],
+  ['scan_3',['Scan',['../classTouch__Screen_1_1TouchScreen.html#a5e884838641d4af5ceb76b3433fce01c',1,'Touch_Screen::TouchScreen']]],
+  ['set_5fduty_4',['set_duty',['../classDRV8847__Motor_1_1Motor.html#ae0235711a68ed89971034eb1315b7ff5',1,'DRV8847_Motor::Motor']]],
+  ['set_5fkp_5',['set_Kp',['../classClosed__Loop_1_1ClosedLoop.html#aa53e26e53e034f5f92ee76968ea594a1',1,'Closed_Loop::ClosedLoop']]],
+  ['set_5fposition_6',['set_position',['../classencoder_1_1Encoder.html#a097746ac59abf28e6567f5604fe83c1f',1,'encoder::Encoder']]],
+  ['setkx_7',['setKx',['../classTask__Control_1_1Task__Control.html#aef93dfbd6de2eaa043d7f0b8a01f2e53',1,'Task_Control::Task_Control']]],
+  ['setky_8',['setKy',['../classTask__Control_1_1Task__Control.html#a6dfaf2efcc81f590f8839194fb43c23d',1,'Task_Control::Task_Control']]],
+  ['setreference_9',['setReference',['../classClosed__Loop_1_1ClosedLoop.html#a52e02435a7bf9a77cf1ec4dda869da13',1,'Closed_Loop::ClosedLoop']]],
+  ['shares_10',['Shares',['../classshares_1_1Shares.html',1,'shares']]],
+  ['shares_2epy_11',['shares.py',['../shares_8py.html',1,'']]],
+  ['sine_5fwave_12',['sine_wave',['../LED__with__comments_8py.html#ac848cb0eb727933349b922e991468a54',1,'LED_with_comments']]],
+  ['slopex_13',['slopex',['../classTouch__Screen_1_1TouchScreen.html#a3a85047f42be752a00132cbfcd3841dd',1,'Touch_Screen::TouchScreen']]],
+  ['slopey_14',['slopey',['../classTouch__Screen_1_1TouchScreen.html#a7886371c8d1fc962e4b7dcf2e2f0721a',1,'Touch_Screen::TouchScreen']]],
+  ['square_5fwave_15',['square_wave',['../LED__with__comments_8py.html#a1ca969f78c992a6b747e9f8867761d39',1,'LED_with_comments']]],
+  ['state_16',['state',['../classUI__Encoder__Task_1_1UI.html#a590924abe708cc66daafe8b4062390aa',1,'UI_Encoder_Task.UI.state()'],['../LED__with__comments_8py.html#a3b053ce6860477c92f605a6d1a9b5355',1,'LED_with_comments.state()']]]
+];
